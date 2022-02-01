@@ -19,4 +19,4 @@ shell:
  
  .PHONY: run
  run:
-	@. env/bin/activate && cd src && python app.py
+	@. env/bin/activate && cd src && python3 app.py
